@@ -1,5 +1,4 @@
-#Maman 12 Q2
-#Author: Roy Stabinski
+
 
 #In this program The commands consist only of R-type commands:: lw, sw, beq.\
 #The program is on a list of commands, and counts how many commands there are of each type.
